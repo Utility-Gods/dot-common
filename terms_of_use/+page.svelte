@@ -1,4 +1,4 @@
-<div class="flex flex-col gap-4 py-6 mx-auto max-w-7xl sm:px-6 lg:px-8">
+<div class="flex flex-col gap-4 py-6 mx-auto max-w-7xl sm:px-6 px-3 lg:px-8">
 
     <h1 class="text-2xl font-bold">TERMS OF SERVICE</h1>
 
